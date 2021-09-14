@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(0, 112, 15);
+    background-attachment: fixed;
+    padding: 3%;
+}
+.contain{
+    display: flex;
+    height: auto;
+    border-radius: 50px;
+}
+.container1{
+    background-attachment: fixed;
+    display: inline-block;
+    width : 70%;
+    height: 625px;
+}
+.container2{
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    width : 30%;
+    height : 625x;
+}
+.image{
+    width:100%;
+    height : 625px;
+}
+.container{
+    font-size: x-large;
+    width : 100%;
+    height : 90%; 
+    text-align: center;
+}
+.login{
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.main1{
+    text-align : center;
+    font-size: medium;
+    border:none; 
+    border: 2px solid black; 
+    border-radius: 20px;
+    outline: none; 
+    font-size: 25px; 
+    background: transparent; 
+    color : black;
+    padding: 5px;
+}
+.button1{
+    width : 200px;
+    height : 40px;
+    font-size: large;
+    border-radius: 20px;
+    background: green;
+    font-weight: lighter;
+    color: white;
+}
+.facebook{
+    font-size: 17px;
+    border-radius: 20px;
+    width : 140px;
+    height: 40px;
+    background-color: rgb(8, 8, 83);
+    color: white;
+}
+.twitter{
+    font-size: 17px;
+    border-radius: 20px; 
+    width : 140px;
+    height: 40px;
+    background-color: rgb(0, 247, 255);
+    color : black;
+}
+.decorate{
+    text-decoration: none;
+    color : white;
+}
+.decorate2{
+    text-decoration: none;
+    color : black;
+}
+.decorate3{
+    text-decoration: none;
+    color:blue;
+}
+.member{
+    font-size: 20px;
+    font-weight: bold;
+}
